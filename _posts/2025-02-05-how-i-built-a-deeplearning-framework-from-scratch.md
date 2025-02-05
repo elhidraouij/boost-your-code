@@ -13,7 +13,7 @@ The best way to finally understand a concept is to built it with your own hand. 
 
 ## Prerequisite
 
-Being familiar with matrix calculations and a programming language is a plus.
+Being familiar with matrix calculations, object oriented programming and a programming language is a plus.
 If not you may not be able to fully understand the following concepts.
 
 ## Objectives
