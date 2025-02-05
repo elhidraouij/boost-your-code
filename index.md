@@ -4,7 +4,7 @@ title: Home
 ---
 
 # Welcome on my blog 🚀
-## 📌 Articles récents :
+## 📌 Check my recent articles :
 <ul>
   {% for post in site.posts %}
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
