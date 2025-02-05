@@ -9,7 +9,7 @@ categories: blog
 
 ## Introduction
 
-The best way to finally understand a concept is to built it with your own hand.
+The best way to finally understand a concept is to built it with your own hand. As I wanted to clearly understand the machine, I took of my time to build an entire homemade DeepLearning framework.
 
 ## Prerequisite
 
@@ -18,13 +18,13 @@ If not you may not be able to fully understand the following concepts.
 
 ## Objectives
 
-Todays objectivs:
-- Understand the underlying concept behind the neural network concepts
+Todays objectives:
+- Understand the underlying concepts behind the neural network keyword
 - Build an entire DeepLearning framework from scratch
 - Train fully-connected models
 - And finally, infer from data
 
-## Uderstand the untold secrets behind the neural network
+## Uderstand the untold secrets behind over-mystigied neural network
 
 ### A biological neuron
 
