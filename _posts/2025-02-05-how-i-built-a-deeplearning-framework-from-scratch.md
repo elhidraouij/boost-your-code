@@ -1,0 +1,32 @@
+---
+layout: post
+title: "How I built an entire DeepLearning framework from scratch"
+date: 2025-02-05
+categories: blog
+---
+
+# How I built an entire DeepLearning framework from scratch
+
+## Introduction
+
+The best way to finally understand a concept is to built it with your own hand.
+
+## Prerequisite
+
+Being familiar with matrix calculations and a programming language is a plus.
+If not you may not be able to fully understand the following concepts.
+
+## Objectives
+
+Todays objectivs:
+- Understand the underlying concept behind the neural network concepts
+- Build an entire DeepLearning framework from scratch
+- Train fully-connected models
+- And finally, infer from data
+
+## Uderstand the untold secrets behind the neural network
+
+### A biological neuron
+
+A biological neuron is composed of dendrites, a cell body and an axon. It receives many electrical signal from the dendrites. The neuron will sum the electrical signals and if the result exceed its activation threshold, then it will generate an electrical signal on its axon.
+
