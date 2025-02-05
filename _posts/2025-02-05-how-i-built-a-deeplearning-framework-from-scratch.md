@@ -40,19 +40,15 @@ To have a better understanding of what happens under the hood of a neuron let's 
 
 The same way a neuron in DeepLearning will receive digital inputs (dendrites) from external providers. The provider can be other neurons, or it can be an image pixel for example.
 
-Let's assume a vector of n inputs $$z=\sum_{i=1}^{n} x_i$$
+Let's assume a vector of n inputs :
+$$
+z=\sum_{i=1}^{n} x_i
+$$
 
 Each received signal is assigned an importance, called the weight. The bigger is the weight and the bigger its impact will be on the neuron output.
 Once the input received, the neuron will add them up, apply an activation function and send its result as an output to the next external receivers (axon).
 
 Let's make a quick example between an input and a neuron:
-```csharp
-double input = 2;
-
-double neuron_value = 4;
-
-double output = 
-```
 
 ### A neural network
 
