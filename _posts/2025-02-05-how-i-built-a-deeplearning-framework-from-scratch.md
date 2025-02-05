@@ -30,7 +30,7 @@ Todays objectives:
 
 A biological neuron is composed of dendrites, a cell body and an axon. It receives many electrical signal from the dendrites. The neuron will sum the electrical signals and if the result exceed its activation threshold, then it will generate an electrical signal on its axon.
 
-![A Classic Biological Neuron](../assets/a_classic_biological_neuron.png)
+![A Classic Biological Neuron](/assets/a_classic_biological_neuron.png)
 
 ### A neural network
 
