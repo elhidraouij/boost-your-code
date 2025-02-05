@@ -24,7 +24,7 @@ Todays objectives:
 - Train fully-connected models
 - And finally, infer from data
 
-## Uderstand the untold secrets behind over-mystigied neural network
+## Uderstand the untold secrets behind overmystified neural network
 
 ### A biological neuron
 
